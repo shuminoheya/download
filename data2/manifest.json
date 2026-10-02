@@ -1,0 +1,45 @@
+{
+  "format": "split-download-v1",
+  "originalName": "今夜は六日前に作ったお鍋で集団食中毒にしましょう♪.mp4",
+  "mimeType": "video/mp4",
+  "totalSize": 168741029,
+  "partSize": 25165824,
+  "partCount": 7,
+  "parts": [
+    {
+      "name": "part1.bin",
+      "size": 25165824,
+      "sha256": "93bcea176c0a1d774f6c43c42ff535cb55430eb8012ee218f133beb74ae9d497"
+    },
+    {
+      "name": "part2.bin",
+      "size": 25165824,
+      "sha256": "0a7a44aa659226b70fd076d969a1475fcd3426e0a617bb82cab305b42897baa5"
+    },
+    {
+      "name": "part3.bin",
+      "size": 25165824,
+      "sha256": "84f249cc45505e471f7f864e017869fd53f54afae7b6f5051da0ef28ed999802"
+    },
+    {
+      "name": "part4.bin",
+      "size": 25165824,
+      "sha256": "29ee05770bab70b56ba8e9e58814678b29b11d763c1f533f8d1bc1a608fcde38"
+    },
+    {
+      "name": "part5.bin",
+      "size": 25165824,
+      "sha256": "eb7ea53cdcaa201d4507ef6c973f70bf8a629f11c9e64ec67937664e0438cb5f"
+    },
+    {
+      "name": "part6.bin",
+      "size": 25165824,
+      "sha256": "3abbc05c2abbbeb1b7c8d4d38ce6b12d18e3b1c0bc3adcc787d107e32d6219c4"
+    },
+    {
+      "name": "part7.bin",
+      "size": 17746085,
+      "sha256": "86ba6eef7e09de4475b13d3fab117fe4b5ba61d9b490fb0f4d173346cee6c0c8"
+    }
+  ]
+}
