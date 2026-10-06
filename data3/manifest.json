@@ -1,0 +1,50 @@
+{
+  "format": "split-download-v1",
+  "originalName": "The End of Evangelion - Sohryu Asuka Langley vs Eva Series 60fps FI - sub ESP & ENG.webm",
+  "mimeType": "video/webm",
+  "totalSize": 193120065,
+  "partSize": 25165824,
+  "partCount": 8,
+  "parts": [
+    {
+      "name": "part1.bin",
+      "size": 25165824,
+      "sha256": "20a441c9a1472e534b92c5255549803dc12fb405e6ce9ec0b8b5f94aab020e93"
+    },
+    {
+      "name": "part2.bin",
+      "size": 25165824,
+      "sha256": "50260b678e8f949a49b4eb1f02580606a812d6ec554b4ae1575c096c0de76aab"
+    },
+    {
+      "name": "part3.bin",
+      "size": 25165824,
+      "sha256": "31ccc50e0be1564f0144f2cb77fa71ee3db8eac31858951f1ab2cca4177a32c3"
+    },
+    {
+      "name": "part4.bin",
+      "size": 25165824,
+      "sha256": "60e4fa9735392c8a1604e79aec5fae5344ac55fd30b70dd1074d1d902cde1e75"
+    },
+    {
+      "name": "part5.bin",
+      "size": 25165824,
+      "sha256": "32ddebb269e3e439908001cdab2615fcd2230663aec4cf2f87708d74d5af8af2"
+    },
+    {
+      "name": "part6.bin",
+      "size": 25165824,
+      "sha256": "050064983534e3fcdd34f454b5aaac4f0994c44b0c68ff5f1c6bd33ef10670ec"
+    },
+    {
+      "name": "part7.bin",
+      "size": 25165824,
+      "sha256": "93f41d345dc77eadc37eceedb2c681489eaf52771f659118b10f376e7d16e8ff"
+    },
+    {
+      "name": "part8.bin",
+      "size": 16959297,
+      "sha256": "4607e47788e8958185033c212b4fcc34382836ee680e0621f9e3edc33f48f10c"
+    }
+  ]
+}
