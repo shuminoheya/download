@@ -1,0 +1,30 @@
+{
+  "format": "split-download-v1",
+  "originalName": "6日前に作った鍋食べてみたら….webm",
+  "mimeType": "video/webm",
+  "totalSize": 94009976,
+  "partSize": 25165824,
+  "partCount": 4,
+  "parts": [
+    {
+      "name": "part1.bin",
+      "size": 25165824,
+      "sha256": "60b56e0bd2b62b0afab534d49395e89395ce0faf391eae9404afc8c3621ccdce"
+    },
+    {
+      "name": "part2.bin",
+      "size": 25165824,
+      "sha256": "10548726dc7eeb862ee6439e70be9a11ca558ce804e98bf78fba0fbd13352543"
+    },
+    {
+      "name": "part3.bin",
+      "size": 25165824,
+      "sha256": "ab184f078025ef5605caf762a2cc7d55d75fb3e75ea036d1ec8df527e78f6cc5"
+    },
+    {
+      "name": "part4.bin",
+      "size": 18512504,
+      "sha256": "d7de4c5a12ffe2ba61b5c0bf3ac7ca6640bda2cfa5ef847ae872e34b1d3fee46"
+    }
+  ]
+}
